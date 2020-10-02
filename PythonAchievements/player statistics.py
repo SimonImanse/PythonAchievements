@@ -1,0 +1,10 @@
+type person = villager
+hittable = True
+movement speed = 250
+job = farmer
+lives in = farm house
+hatOn = False
+hair = brown
+age = 38
+mood = friendly
+loves item = carrot cake
